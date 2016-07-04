@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title></title>
+  <link rel="stylesheet" href="">
+
+</head>
+<body>
+
+<legend>Meats</legend>
+  <select multiple id="meat-chooser" name="meats">
+    <option value="turkey">Turkey</option>
+    <option value="bacon">Bacon</option>
+    <option value="bear">Bear</option>
+    <option value="none">None</option>
+  </select>
+
+<legend>Breads</legend>
+  <select id="bread-chooser" name="breads" multiple>
+    <option value="white">White</option>
+    <option value="wheat">Wheat</option>
+    <option value="rye">Rye</option>
+    <option value="none">None</option>
+  </select>
+
+<legend>Cheese</legend>
+  <select multiple id="cheese-chooser" name="cheese">
+    <option value="swiss">Swiss</option>
+    <option value="cheddar">Cheddar</option>
+    <option value="mozz">mozz</option>  
+    <option value="none">None</option>
+  </select>
+
+<legend>Condiments</legend>
+  <select multiple id="condiment-chooser" name="condiments">
+    <option value="mayo">Mayo</option>
+    <option value="mustard">Mustard</option>
+    <option value="ketchup">Ketchup</option>
+    <option value="none">None</option>
+
+  </select>
+
+<legend>Veggies</legend>
+  <select multiple id="veggie-chooser" name="Meats">
+    <option value="avocado">Avocado</option>
+    <option value="tomato">Tomato</option>
+    <option value="onion">Onion</option>
+    <option value="none">None</option>
+  </select>
+
+  <button id="buildIt">Build it</button>
+
+  <div>Total price</div>
+  <div id="output"></div>
+
+  <script src="node_modules/jquery/dist/jquery.min.js"></script>
+  <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script src="dist/bundle.js"></script>
+
+
+</body>
+</html>

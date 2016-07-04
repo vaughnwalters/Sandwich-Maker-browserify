@@ -1,0 +1,162 @@
+Remember that you can report errors and get help in https://github.com/NicoSantangelo/sublime-gulp
+
+06-28-2016 14:24:
+/Users/vaughnwalters/workspace/exercises/mjd/sandwich/.sublime-gulp-tmp.js:60
+  return gulp.src([‘./src/**/*.js'])
+                   ^
+
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at requireGulp (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:28:16)
+    at Object.<anonymous> (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:83:12)
+    at Module._compile (module.js:409:26)
+
+
+06-28-2016 14:24:
+/Users/vaughnwalters/workspace/exercises/mjd/sandwich/.sublime-gulp-tmp.js:60
+  return gulp.src([‘./src/**/*.js'])
+                   ^
+
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at requireGulp (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:28:16)
+    at Object.<anonymous> (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:83:12)
+    at Module._compile (module.js:409:26)
+
+
+06-28-2016 14:25:
+/Users/vaughnwalters/workspace/exercises/mjd/sandwich/.sublime-gulp-tmp.js:60
+  return gulp.src([‘./src/**/*.js'])
+                   ^
+
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at requireGulp (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:28:16)
+    at Object.<anonymous> (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:83:12)
+    at Module._compile (module.js:409:26)
+
+
+06-28-2016 14:27:
+/Users/vaughnwalters/workspace/exercises/mjd/sandwich/.sublime-gulp-tmp.js:60
+  return gulp.src([‘./src/**/*.js'])
+                   ^
+
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at requireGulp (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:28:16)
+    at Object.<anonymous> (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:83:12)
+    at Module._compile (module.js:409:26)
+
+
+06-28-2016 14:28:
+/Users/vaughnwalters/workspace/exercises/mjd/sandwich/.sublime-gulp-tmp.js:60
+  return gulp.src([‘./src/**/*.js'])
+                   ^
+
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at requireGulp (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:28:16)
+    at Object.<anonymous> (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:83:12)
+    at Module._compile (module.js:409:26)
+
+
+06-28-2016 14:28:
+/Users/vaughnwalters/workspace/exercises/mjd/sandwich/.sublime-gulp-tmp.js:60
+  return gulp.src([‘./src/**/*.js'])
+                   ^
+
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at requireGulp (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:28:16)
+    at Object.<anonymous> (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:83:12)
+    at Module._compile (module.js:409:26)
+
+
+06-28-2016 14:31:
+/Users/vaughnwalters/workspace/exercises/mjd/sandwich/.sublime-gulp-tmp.js:60
+  return gulp.src([‘./src/**/*.js'])
+                   ^
+
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at requireGulp (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:28:16)
+    at Object.<anonymous> (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:83:12)
+    at Module._compile (module.js:409:26)
+
+
+06-28-2016 14:33:
+/Users/vaughnwalters/workspace/exercises/mjd/sandwich/.sublime-gulp-tmp.js:60
+  return gulp.src([‘./src/**/*.js'])
+                   ^
+
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at requireGulp (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:28:16)
+    at Object.<anonymous> (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:83:12)
+    at Module._compile (module.js:409:26)
+
+
+06-28-2016 14:33:
+/Users/vaughnwalters/workspace/exercises/mjd/sandwich/.sublime-gulp-tmp.js:60
+  return gulp.src([‘./src/**/*.js'])
+                   ^
+
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:53:16)
+    at Module._compile (module.js:373:25)
+    at Object.Module._extensions..js (module.js:416:10)
+    at Module.load (module.js:343:32)
+    at Function.Module._load (module.js:300:12)
+    at Module.require (module.js:353:17)
+    at require (internal/module.js:12:17)
+    at requireGulp (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:28:16)
+    at Object.<anonymous> (/Users/vaughnwalters/Library/Application Support/Sublime Text 3/Packages/Gulp/write_tasks_to_cache.js:83:12)
+    at Module._compile (module.js:409:26)

@@ -1,0 +1,1 @@
+{"/Users/vaughnwalters/workspace/exercises/mjd/sandwich/gulpfile.js":{"sha1":"0b30bf68b912eda16e060605b318f26c7f9ce1f1","tasks":{"browserify":{"name":"browserify","dependencies":""},"lint":{"name":"lint","dependencies":""},"watch":{"name":"watch","dependencies":""},"default":{"name":"default","dependencies":"lint watch"}}}}
